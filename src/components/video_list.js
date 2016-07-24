@@ -11,6 +11,7 @@ const VideoList = (props) => {
                 video={video}
             />
         );
+        
     });
 
     return (
